@@ -13,4 +13,10 @@ class TestCredential(unittest.TestCase):
         """
         self.new_credential = Credential("rock1ville", "Instagram", "Vynnel", "rock1ville")
 
+    def tearDown(self):
+        """
+        tearDown method that does clean up after each test case has run
+        """
+        Credential.credential_list = []
+
    
