@@ -53,7 +53,7 @@ The program should generate a random 8 characters long password when gp(generate
 
     Input Example: Enter gp
 
-    Output Example: Your password is: ht43iphw
+    Output Example: Your password is: kono3658baka
 
 The program should let the user create their own password when cp(create password) is entered:
 
