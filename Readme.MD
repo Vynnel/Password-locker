@@ -22,9 +22,9 @@ Step 2: cd Password-locker
 
 ### run this command lines in your terminal:
     
-    chmod +x run.py
+    chmod +x locker.py
     
-    ./run.py
+    ./locker.py
 
 
 ## Behavior Driven Development
